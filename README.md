@@ -2,7 +2,9 @@
 This is the PyTorch implementation of the paper '[Sparse Adversarial Perturbations for Videos](https://arxiv.org/pdf/1803.02536.pdf)'. 
 
 This code requires Python3 and requirements.txt contains all its other dependencies. Run the following command to install all these requirements: 
+```python
 pip install -r requirements.txt
+```
 
 To run the code, use the following command: 
 ```python
