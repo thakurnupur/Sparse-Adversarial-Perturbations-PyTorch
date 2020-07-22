@@ -13,4 +13,5 @@ python l21_optimization.py --input_dir data/UCF-101-frames --split_path data/ucf
 
 Please refer to the following link for the code for the processing of UCF-101 dataset and its target network: 
 https://github.com/eriklindernoren/Action-Recognition
+
 You can find the checkpoint model for CNN+LSTM model on this link too. 
